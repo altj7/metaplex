@@ -3,7 +3,7 @@
   "name": "Metaplex NFT Marketplace",
   "icons": [
     {
-      "src": "/android-icon-36x36.png",
+      "src": "https://gateway.pinata.cloud/ipfs/QmdnSnH4eeTDWLQjY1byfxGDz4AgTdyjk3FZs8mmquzo9S",
       "sizes": "36x36",
       "type": "image/png",
       "density": "0.75"
@@ -33,7 +33,7 @@
       "density": "3.0"
     },
     {
-      "src": "/android-icon-192x192.png",
+      "src": "https://gateway.pinata.cloud/ipfs/QmfN6TUbzipjnWGWiDnmfFY2kbeM56JH7xKxDmZi5BnL9P",
       "sizes": "192x192",
       "type": "image/png",
       "density": "4.0"
